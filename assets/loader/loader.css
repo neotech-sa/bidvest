@@ -24,7 +24,7 @@ svg {
 
 .loader--svg {
     width: 7em;
-    animation: rotate 2s;
+    animation: rotate  1s infinite;
 }
 
 @keyframes rotate {
